@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my new GitHub page
 ---
 
+More content coming soon... `be patient`
